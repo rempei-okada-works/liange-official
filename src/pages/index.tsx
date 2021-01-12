@@ -272,7 +272,6 @@ interface BlogCardProps {
 }
 
 function BlogCard(props: BlogCardProps) {
-
     return (
         <div className="card shadow-6">
             <div className="card-image" >
